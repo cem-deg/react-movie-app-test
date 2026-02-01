@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import Loading from "./Loading";
 
-const api_key = "9394fb08eb73fd225d415dd17bb8eb01";
+const api_key = "d98e819d959f20a30dad18b7e2268a86";
 const page = 1;
 const query = "batman";
 const language = "tr-TR";
